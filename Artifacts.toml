@@ -1,60 +1,60 @@
 [[cuPDLPx]]
 arch = "x86_64"
 cuda = "12.4"
-git-tree-sha1 = "a9b88fb056f247c4bd4c32cf4d93bd28556d2f3f"
+git-tree-sha1 = "a8191d315a65cdb3a94e4cf14daaa949df8bae02"
 libc = "glibc"
 os = "linux"
 
     [[cuPDLPx.download]]
-    sha256 = "58569528b0cbd08303bd24e0ea0e64ce33f4a072224def79e3fe77fa3d545a79"
-    url = "https://github.com/JuliaBinaryWrappers/cuPDLPx_jll.jl/releases/download/cuPDLPx-v0.1.5+0/cuPDLPx.v0.1.5.x86_64-linux-gnu-cuda+12.4.tar.gz"
+    sha256 = "d3e6e2140e5269e41ec698a01c44aba5d65643ff57d4f8266ac91b80fe36c88c"
+    url = "https://github.com/JuliaBinaryWrappers/cuPDLPx_jll.jl/releases/download/cuPDLPx-v0.2.1+0/cuPDLPx.v0.2.1.x86_64-linux-gnu-cuda+12.4.tar.gz"
 [[cuPDLPx]]
 arch = "x86_64"
 cuda = "12.5"
-git-tree-sha1 = "de1b416e9a68cccf97db99ccff3f28ea2b7d5382"
+git-tree-sha1 = "0ec317f6170fbd313f0d3559d1ff31004b6282c2"
 libc = "glibc"
 os = "linux"
 
     [[cuPDLPx.download]]
-    sha256 = "8f8c10bd8167a4695711805adf782dafb059a1ab73c3ec3323a94d0de0f0f758"
-    url = "https://github.com/JuliaBinaryWrappers/cuPDLPx_jll.jl/releases/download/cuPDLPx-v0.1.5+0/cuPDLPx.v0.1.5.x86_64-linux-gnu-cuda+12.5.tar.gz"
+    sha256 = "542a31b4a2f2e559ec2557aefd717e4835d6358659382aa299576d43aeeab1a9"
+    url = "https://github.com/JuliaBinaryWrappers/cuPDLPx_jll.jl/releases/download/cuPDLPx-v0.2.1+0/cuPDLPx.v0.2.1.x86_64-linux-gnu-cuda+12.5.tar.gz"
 [[cuPDLPx]]
 arch = "x86_64"
 cuda = "12.6"
-git-tree-sha1 = "cf6be64f7342f21e9f9ba917b78e0bd3da9dbb89"
+git-tree-sha1 = "bd807555ef1644963d1ee99bfece85e2848121bf"
 libc = "glibc"
 os = "linux"
 
     [[cuPDLPx.download]]
-    sha256 = "21d56f35a8808398f43e2b9825cc311e7232a809f9a91b0c24a646cee07ad459"
-    url = "https://github.com/JuliaBinaryWrappers/cuPDLPx_jll.jl/releases/download/cuPDLPx-v0.1.5+0/cuPDLPx.v0.1.5.x86_64-linux-gnu-cuda+12.6.tar.gz"
+    sha256 = "7354cd854ce3034132057e9bde0380a068c0ed60aa4bbe00d01e00164c2d0a9b"
+    url = "https://github.com/JuliaBinaryWrappers/cuPDLPx_jll.jl/releases/download/cuPDLPx-v0.2.1+0/cuPDLPx.v0.2.1.x86_64-linux-gnu-cuda+12.6.tar.gz"
 [[cuPDLPx]]
 arch = "x86_64"
 cuda = "12.8"
-git-tree-sha1 = "150fb16034d995ca7d12384708602bd79c362514"
+git-tree-sha1 = "797787499fb818c68bbe21f2aadc940bbf35f457"
 libc = "glibc"
 os = "linux"
 
     [[cuPDLPx.download]]
-    sha256 = "334a86eda9e3e86ccd4d40ced4fb60b60c18edc5e02bbc1a2fc17fab79eb7f7e"
-    url = "https://github.com/JuliaBinaryWrappers/cuPDLPx_jll.jl/releases/download/cuPDLPx-v0.1.5+0/cuPDLPx.v0.1.5.x86_64-linux-gnu-cuda+12.8.tar.gz"
+    sha256 = "607241814bf8ed209bd2ac975011360d44d803e27b4c1b72e80d3ec9eb83a8cc"
+    url = "https://github.com/JuliaBinaryWrappers/cuPDLPx_jll.jl/releases/download/cuPDLPx-v0.2.1+0/cuPDLPx.v0.2.1.x86_64-linux-gnu-cuda+12.8.tar.gz"
 [[cuPDLPx]]
 arch = "x86_64"
 cuda = "12.9"
-git-tree-sha1 = "b30004ee29c36233642170aaf640ac93614273f2"
+git-tree-sha1 = "c6342bcce5a6ea04e061885a08d1bd770b6e4a92"
 libc = "glibc"
 os = "linux"
 
     [[cuPDLPx.download]]
-    sha256 = "7395ea99d8bb8f4d57ed64382b37e39c1ceee1864340bee626eee7cf69aa7c90"
-    url = "https://github.com/JuliaBinaryWrappers/cuPDLPx_jll.jl/releases/download/cuPDLPx-v0.1.5+0/cuPDLPx.v0.1.5.x86_64-linux-gnu-cuda+12.9.tar.gz"
+    sha256 = "d855bde84226c8477f832b2c8437969523e6b2eeb92b7a290831b9f1cb371b74"
+    url = "https://github.com/JuliaBinaryWrappers/cuPDLPx_jll.jl/releases/download/cuPDLPx-v0.2.1+0/cuPDLPx.v0.2.1.x86_64-linux-gnu-cuda+12.9.tar.gz"
 [[cuPDLPx]]
 arch = "x86_64"
 cuda = "13.0"
-git-tree-sha1 = "9c862b17281b65ae7985abe431158e34ca7a404c"
+git-tree-sha1 = "9bf440a7db54e9fa7953014cd709d262f3dc9f6a"
 libc = "glibc"
 os = "linux"
 
     [[cuPDLPx.download]]
-    sha256 = "4dd75a5483ef087725b2706eb2f8cef07b9d53ee6fe3ac8989f6fb5266e67d3f"
-    url = "https://github.com/JuliaBinaryWrappers/cuPDLPx_jll.jl/releases/download/cuPDLPx-v0.1.5+0/cuPDLPx.v0.1.5.x86_64-linux-gnu-cuda+13.0.tar.gz"
+    sha256 = "3dc14655f4e09438be0357def8ce2d29b2aabcaac8c2ef1707de30906ec2306a"
+    url = "https://github.com/JuliaBinaryWrappers/cuPDLPx_jll.jl/releases/download/cuPDLPx-v0.2.1+0/cuPDLPx.v0.2.1.x86_64-linux-gnu-cuda+13.0.tar.gz"
